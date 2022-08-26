@@ -286,5 +286,6 @@ def mainmenu():
         mainmenu()
 
 mainmenu()
-1
+100
+200
 

@@ -288,4 +288,5 @@ def mainmenu():
 mainmenu()
 1
 100
+2000
 
